@@ -1,0 +1,17 @@
+repositories:
+
+  farm:
+    url: https://github.com/CIAT-DAPA/ganabosques_farm_data_processor.git
+    branch: main
+
+  movement:
+    url: https://github.com/CIAT-DAPA/ganabosques_movement_data_processor.git
+    branch: main
+
+  deforestation:
+    url: https://github.com/CIAT-DAPA/ganabosques_deforestation_data_processor.git
+    branch: main
+
+  risk:
+    url: https://github.com/CIAT-DAPA/ganabosques_risk_calculator.git
+    branch: main
